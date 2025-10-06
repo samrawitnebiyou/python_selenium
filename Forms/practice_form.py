@@ -42,3 +42,5 @@ driver.find_element(By.ID, "submit").click()
 
 input("Press enter to close...")
 driver.quit()
+
+
